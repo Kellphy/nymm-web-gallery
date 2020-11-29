@@ -15,20 +15,8 @@
                             <ul class="menu clearfix">
 
 								<li class="inline-block">
-                                    <a href="/news.php">
-                                        News
-                                    </a>
-                                </li>
-
-						    	 <li class="inline-block">
-                                    <a>
-                                        Projects
-                                    </a>
-                                </li>
-
-                                <li class="inline-block">
-                                    <a href="/about.php">
-                                        About
+                                    <a href="https://www.instagram.com/nymmberry/" target="_blank">
+                                        Instagram
                                     </a>
                                 </li>
 

@@ -216,7 +216,7 @@ body, html {
     <section class="gallery main-gallery ptb150 pb85" style="background-color: #202020;">
         <div class="container">
             <div class="row">
-                <div class="grid-wrapper mt70">
+                <div class="grid-wrapper mt70">s
                     <div class="item_container relative mt40">
 
 						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
