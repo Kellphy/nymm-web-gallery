@@ -150,7 +150,12 @@
             WebFont.load(fontData);
         }
     </script>
-
+    <script type="text/javascript" src="/assets/plugins/slider/js/n2-j.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/slider/js/nextend-gsap.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/slider/js/nextend-frontend.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/slider/js/smartslider-frontend.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/slider/js/smartslider-simple-type-frontend.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/slider/js/nextend-webfontloader.min.js"></script>
     <script type="text/javascript">
         N2R('documentReady', function ($) {
 
