@@ -3,7 +3,7 @@
             <div class="table height-100p">
                 <div class="table-row">
                     <div class="table-cell valign-middle text-left">
-                        <a href="/index.php" class="logo">
+                        <a class="logo">
                             <img src="/assets/images/logo.png">
                         </a>
                     </div>
