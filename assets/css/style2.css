@@ -1,0 +1,119 @@
+/* HOVER POPUP */
+
+#introText a {
+  color: #ff6600;
+  text-decoration: none;
+}
+
+#introText a:hover {
+  color: #ffb280;
+}
+
+#introText ul {
+  display: inline-block;
+}
+
+.date {
+  position: relative;
+}
+
+.date div {
+  /*visiblity: hidden; */
+  
+  display: none;
+  position: absolute;
+  top: 0;
+  left:0;
+  margin-top: -50px; /* approx adjustment for arrow */
+  margin-left: -45px; /* approx adjustment for arrow */
+}
+
+.date a:hover + div {
+  cursor: pointer;
+  display: block;
+  /*visibility: visible; */
+  width: 150px;
+  line-height: 20px;
+  padding: 8px;
+  font-size: 14px;
+  text-align: center;
+  z-index: 999;
+  color: rgb(113, 157, 171);
+  background: rgb(255, 255, 255);
+  border: 4px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  text-shadow: rgba(0, 0, 0, 0.0980392) 1px 1px 1px;
+  box-shadow: #333 -4px 4px 16px 2px;
+  -webkit-transition: opacity 100ms ease-in;
+  -o-transition: opacity 100ms ease-in;
+  -moz-transition: opacity 100ms ease-in;
+  transition: opacity 100ms ease-in;
+  pointer-events: none;
+}
+
+.date div:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-width: 0px;
+  border-style: solid;
+  border-color: transparent #FFFFFF transparent transparent;
+  top: 22px;
+  left: -23px;
+}
+
+
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 140px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -75px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+        input{
+            border: 0px solid
+         }
