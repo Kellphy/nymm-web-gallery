@@ -4,7 +4,7 @@
                 <div class="table-row">
                     <div class="table-cell valign-middle text-left">
                         <a href="/index.php" class="logo">
-                            <img src="/assets/images/logo.png" alt="" class="img-responsive inline-block">
+                            <img src="/assets/images/logo.png">
                         </a>
                     </div>
                     <div class="table-cell valign-top text-center vm-sm">
