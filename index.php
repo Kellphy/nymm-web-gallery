@@ -214,6 +214,204 @@
                                 <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/1.jpg';"></div>
                             </div>
                         </div>
+                        
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/2.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/2.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/3.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/3.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/4.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/4.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/5.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/5.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/6.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/6.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/7.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/7.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/8.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/8.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/9.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/9.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/10.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/10.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/11.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/11.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/12.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/12.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/13.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/13.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/14.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/14.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/15.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/15.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/16.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/16.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/17.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/17.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/18.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/18.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/19.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/19.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/20.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/20.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/21.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/21.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/22.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/22.jpg';"></div>
+                            </div>
+                        </div>
+
+						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div class="item-content">
+                                <div class="image-bl">
+                                    <img src="/assets/images/showcase/23.jpg" alt="">
+                                </div>			
+                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/23.jpg';"></div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
