@@ -1781,7 +1781,7 @@ header {
       bottom: 0;
       left: 0;
       right: 0;
-  background-image:  linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 50%); }
+  background-image:  linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 0) 50%); }
 
 /* ==========================================================================
    07. STREAM SECTION
