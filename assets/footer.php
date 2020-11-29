@@ -1,6 +1,6 @@
     <footer class="footer">
         <div class="container">
-            <div class="row mb110">
+            <div class="row">
 
             <div class="row">
                 <div class="copyright ptb30 col-lg-12">
