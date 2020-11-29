@@ -216,7 +216,7 @@ body, html {
     <section class="gallery main-gallery ptb150 pb85" style="background-color: #202020;">
         <div class="container">
             <div class="row">
-                <div class="grid-wrapper mt70">s
+                <div class="grid-wrapper mt70">
                     <div class="item_container relative mt40">
 
 						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -237,13 +237,20 @@ body, html {
     <!-- FOOTER START -->
 		<?php  include($_SERVER['DOCUMENT_ROOT']."/assets/footer.php"); ?>
     <!-- FOOTER END -->
-    <!-- Scripts -->
-    <script src="/assets/plugins/slick-1.8.0/slick/slick.min.js"></script>
+    <!-- Scripts 
+        <script src="/assets/plugins/slick-1.8.0/slick/slick.min.js"></script>
     <script src="/assets/plugins/flex-menu/flexmenu.min.js"></script>
     <script src="/assets/plugins/jquery-match-height-master/dist/jquery.matchHeight.js"></script>
-    <script src="/assets/plugins/muuri-master/muuri.js"></script>
-    <script src="/assets/plugins/lightbox2-master/dist/js/lightbox.js"></script>
+    
+    
+        <script src="/assets/plugins/lightbox2-master/dist/js/lightbox.js"></script>
     <script src="/assets/plugins/wow-master/dist/wow.min.js"></script>
     <script src="/assets/js/script.js"></script>
+    -->
+
+
+
+    <script src="/assets/plugins/muuri-master/muuri.js"></script>
+
 </body>
 </html>

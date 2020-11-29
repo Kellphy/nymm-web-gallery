@@ -1,11 +1,6 @@
     <footer class="footer">
         <div class="container">
             <div class="row mb110">
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <a href="index-2.php">
-                        <img src="/assets/images/logo.png" alt="">
-                    </a>
-                </div>
 
             <div class="row">
                 <div class="copyright ptb30 col-lg-12">
@@ -17,5 +12,6 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </footer>
