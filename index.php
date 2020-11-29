@@ -238,19 +238,20 @@ body, html {
 		<?php  include($_SERVER['DOCUMENT_ROOT']."/assets/footer.php"); ?>
     <!-- FOOTER END -->
     <!-- Scripts 
-        <script src="/assets/plugins/slick-1.8.0/slick/slick.min.js"></script>
-    <script src="/assets/plugins/flex-menu/flexmenu.min.js"></script>
-    <script src="/assets/plugins/jquery-match-height-master/dist/jquery.matchHeight.js"></script>
+
+    <script src="/assets/plugins/slick-1.8.0/slick/slick.min.js"></script>
     
-    
-        <script src="/assets/plugins/lightbox2-master/dist/js/lightbox.js"></script>
-    <script src="/assets/plugins/wow-master/dist/wow.min.js"></script>
-    <script src="/assets/js/script.js"></script>
+
     -->
 
 
 
+    <script src="/assets/plugins/flex-menu/flexmenu.min.js"></script>
+    <script src="/assets/plugins/jquery-match-height-master/dist/jquery.matchHeight.js"></script>
     <script src="/assets/plugins/muuri-master/muuri.js"></script>
+    <script src="/assets/plugins/lightbox2-master/dist/js/lightbox.js"></script>
+    <script src="/assets/plugins/wow-master/dist/wow.min.js"></script>
+    <script src="/assets/js/script.js"></script>
 
 </body>
 </html>
