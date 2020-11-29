@@ -1187,11 +1187,12 @@ body .dataTables_wrapper .dataTables_paginate .paginate_button {
     transition: all 0.3s ease-out; }
 
 body {
-  font-family: "Baloo", sans-serif;
-  font-size: 18px;
-  font-weight: 300;
-  color: #769257;
-  background-color: #b3d98c; }
+    font-family: "Baloo", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #769257;
+    background-color: #99d65c;
+}
   body .loader-wrapper {
     margin: 0;
     padding: 0;
@@ -2052,7 +2053,6 @@ footer.footer {
     top: 0;
     bottom: 0;
     opacity: 0.3;
-    background-image: url("../images/footer-bg.webp");
     background-repeat: no-repeat;
     background-size: cover; }
   footer.footer .footer-menu {
