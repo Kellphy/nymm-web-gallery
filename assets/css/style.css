@@ -39,7 +39,7 @@
   color: #678a42; }
 
 .color-3 {
-  color: #a6c982; }
+  color: #b3d98c; }
 
 .color-4 {
   color: #2B2B2B; }
@@ -63,7 +63,7 @@
   background: #678a42; }
 
 .background-3 {
-  background: #a6c982; }
+  background: #b3d98c; }
 
 .background-4 {
   background: #2B2B2B; }
@@ -999,7 +999,7 @@ body .dataTables_wrapper .dTables {
       background-color: #2B2B2B !important;
       border-left: 1px solid #2B2B2B;
       border-right: 1px solid #2B2B2B;
-      border-top: 1px solid #a6c982 !important; }
+      border-top: 1px solid #b3d98c !important; }
 
 body .dataTables_wrapper .dataTables_info {
   color: #678a42 !important;
@@ -1191,7 +1191,7 @@ body {
   font-size: 18px;
   font-weight: 300;
   color: #678a42;
-  background-color: #a6c982; }
+  background-color: #b3d98c; }
   body .loader-wrapper {
     margin: 0;
     padding: 0;
@@ -1199,7 +1199,7 @@ body {
     font-size: 62.5%;
     width: 100vw;
     height: 100vh;
-    background: #a6c982; }
+    background: #b3d98c; }
   body.no-scroll {
     overflow: hidden; }
 
@@ -1218,7 +1218,7 @@ body {
    ========================================================================== */
 
 header {
-  background-color: #e9afafe0;
+  background-color: #edababe0;
   box-shadow: 3.5px 6.1px 30px rgba(0, 0, 0, 0.57);
   height: 100px; }
     .header-line-wrapper header .logo img {
@@ -1275,7 +1275,7 @@ header {
       top: 0;
       left: 0;
       right: 60px;
-      background: #e9afafe0;
+      background: #edababe0;
       padding: 0 30px;
       overflow-y: auto;
       opacity: 1;
@@ -1292,7 +1292,7 @@ header {
       left: 50%;
       -webkit-transform: translateX(-50%);
               transform: translateX(-50%);
-      background: #e9afafe0;
+      background: #edababe0;
       border-radius: 0px 0px 10px 10px;
       padding: 20px 0; }
       header .main-menu .menu .flexMenu-viewMore .flexMenu-popup li {
@@ -1339,7 +1339,7 @@ header {
         -webkit-transform: translateX(-50%);
                 transform: translateX(-50%);
         list-style: none;
-        background-color: #e9afafe0;
+        background-color: #edababe0;
         border-radius: 0px 0px 10px 10px;
         padding: 20px 0;
         will-change: transform;
@@ -1418,33 +1418,33 @@ header {
       padding: 20px 30px;
       text-transform: uppercase;
       font-size: 18px;
-      color: #e9afafe0;
+      color: #edababe0;
       width: 360px;
       /* Firefox 19+ */
       /* Firefox 18- */ }
       header .right-bl .search-content input::-webkit-input-placeholder {
-        color: #e9afafe0;
+        color: #edababe0;
         text-transform: uppercase;
         font-family: "Baloo", sans-serif;
         opacity: 0.5;
         font-style: italic;
         font-size: 18px; }
       header .right-bl .search-content input::-moz-placeholder {
-        color: #e9afafe0;
+        color: #edababe0;
         text-transform: uppercase;
         font-family: "Baloo", sans-serif;
         opacity: 0.5;
         font-style: italic;
         font-size: 18px; }
       header .right-bl .search-content input:-moz-placeholder {
-        color: #e9afafe0;
+        color: #edababe0;
         text-transform: uppercase;
         font-family: "Baloo", sans-serif;
         opacity: 0.5;
         font-style: italic;
         font-size: 18px; }
       header .right-bl .search-content input:-ms-input-placeholder {
-        color: #e9afafe0;
+        color: #edababe0;
         text-transform: uppercase;
         font-family: "Baloo", sans-serif;
         opacity: 0.5;
@@ -2004,7 +2004,7 @@ header {
     padding: 20px 40px;
     text-transform: uppercase;
     font-style: italic;
-    color: #a6c982;
+    color: #b3d98c;
     /* Firefox 19+ */
     /* Firefox 18- */ }
     .register-section .reg-form .reg_input input::-webkit-input-placeholder {
@@ -2139,7 +2139,7 @@ footer.footer {
     top: 0;
     bottom: 0;
     opacity: 0.9;
-    background: #a6c982; }
+    background: #b3d98c; }
 
 /* ==========================================================================
    13. 404 PAGE
@@ -2160,7 +2160,7 @@ footer.footer {
     height: 10px; }
     .page-404 .footer-line .footer-404 {
       padding: 10px 0;
-      background-color: #a6c982; }
+      background-color: #b3d98c; }
       .page-404 .footer-line .footer-404 [class*="col-"] {
         text-align: center; }
         .page-404 .footer-line .footer-404 [class*="col-"]:last-child {
@@ -2727,7 +2727,7 @@ footer.footer {
     padding: 20px 30px;
     text-transform: uppercase;
     font-size: 18px;
-    color: #a6c982;
+    color: #b3d98c;
     width: 100%;
     font-style: italic; }
   .blog-content .subscribe-widget .subscribe-form button {
@@ -2862,7 +2862,7 @@ footer.footer {
     padding: 20px 30px;
     text-transform: uppercase;
     font-size: 18px;
-    color: #a6c982;
+    color: #b3d98c;
     width: 100%;
     font-style: italic; }
   .blog-content .search-widget .search-form button {
@@ -2900,7 +2900,7 @@ footer.footer {
     right: 15px;
     opacity: 0.7;
     visibility: visible;
-    background: #a6c982;
+    background: #b3d98c;
     transition: all 0.3s ease-out; }
   .posts-nav .nav-btn .nav_content {
     position: relative;
@@ -3032,7 +3032,7 @@ footer.footer {
 
 .comment-form .general_input {
   width: 100%;
-  background: #a6c982;
+  background: #b3d98c;
   padding: 19px 30px;
   border: none;
   border-radius: 10px;

@@ -200,7 +200,7 @@
     <!-- HEADER END -->
 
     <!-- GALLERY SECTION START -->
-    <section class="gallery main-gallery ptb150 pb85" style="background-color: #a6c982;">
+    <section class="gallery main-gallery ptb150 pb85" style="background-color: #b3d98c;">
         <div class="container">
             <div class="row">
                 <div class="grid-wrapper mt70">
