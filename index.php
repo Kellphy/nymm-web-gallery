@@ -202,6 +202,15 @@
     <!-- GALLERY SECTION START -->
     <section class="gallery main-gallery ptb150 pb85" style="background-color: #b3d98c;">
         <div class="container">
+
+            <div class="row">
+                <div class="title-bl text-center wow fadeIn" data-wow-duration="2s">
+                    <div class="title color-white">
+                        I post my art journey on Instagram 🏡 \ 24 years old \ From the Netherlands ~
+                    </div>
+                </div>
+            </div>
+
             <div class="row">
                 <div class="grid-wrapper mt70">
                     <div class="item_container relative mt40">
