@@ -150,12 +150,7 @@
             WebFont.load(fontData);
         }
     </script>
-    <script type="text/javascript" src="/assets/plugins/slider/js/n2-j.min.js"></script>
-    <script type="text/javascript" src="/assets/plugins/slider/js/nextend-gsap.min.js"></script>
-    <script type="text/javascript" src="/assets/plugins/slider/js/nextend-frontend.min.js"></script>
-    <script type="text/javascript" src="/assets/plugins/slider/js/smartslider-frontend.min.js"></script>
-    <script type="text/javascript" src="/assets/plugins/slider/js/smartslider-simple-type-frontend.min.js"></script>
-    <script type="text/javascript" src="/assets/plugins/slider/js/nextend-webfontloader.min.js"></script>
+
     <script type="text/javascript">
         N2R('documentReady', function ($) {
 
@@ -224,12 +219,7 @@
     <!-- FOOTER START -->
 		<?php  include($_SERVER['DOCUMENT_ROOT']."/assets/footer.php"); ?>
     <!-- FOOTER END -->
-    <!-- Scripts 
-
-    
-    
-
-    -->
+    <!-- Scripts -->
 
     <script src="/assets/plugins/slick-1.8.0/slick/slick.min.js"></script>
     <script src="/assets/plugins/flex-menu/flexmenu.min.js"></script>
@@ -237,7 +227,7 @@
     <script src="/assets/plugins/muuri-master/muuri.js"></script>
     <script src="/assets/plugins/lightbox2-master/dist/js/lightbox.js"></script>
     <script src="/assets/plugins/wow-master/dist/wow.min.js"></script>
-
+    <script src="/assets/js/script.js"></script>
 
 </body>
 </html>
