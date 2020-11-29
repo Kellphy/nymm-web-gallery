@@ -16,61 +16,6 @@
     <!-- Responsive Style -->
     <link rel="stylesheet" href="/assets/css/responsive.css" />
     <!-- Sliders -->
-    <link rel="stylesheet" type="text/css" href="/assets/plugins/slick-1.8.0/slick/slick.css" />
-    <link rel="stylesheet" type="text/css" href="/assets/plugins/slick-1.8.0/slick/slick-theme.css" />
-    <link rel="stylesheet" type="text/css" href="/assets/plugins/slider/css/normalize.min.css" media="screen, print" />
-    <link rel="stylesheet" type="text/css" href="/assets/plugins/slider/css/smartslider.min.css" media="screen, print" />
-    <style type="text/css">
-        .n2-ss-spinner-simple-white-container {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            margin: -20px;
-            background: #fff;
-            width: 20px;
-            height: 20px;
-            padding: 10px;
-            border-radius: 50%;
-            z-index: 1000;
-        }
-
-        .n2-ss-spinner-simple-white {
-            outline: 1px solid RGBA(0, 0, 0, 0);
-            width: 100%;
-            height: 100%;
-        }
-
-        .n2-ss-spinner-simple-white:before {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 20px;
-            height: 20px;
-            margin-top: -11px;
-            margin-left: -11px;
-        }
-
-        .n2-ss-spinner-simple-white:not(:required):before {
-            content: '';
-            border-radius: 50%;
-            border-top: 2px solid #333;
-            border-right: 2px solid transparent;
-            animation: n2SimpleWhite .6s linear infinite;
-            -webkit-animation: n2SimpleWhite .6s linear infinite;
-        }
-
-        @keyframes n2SimpleWhite {
-            to {
-                transform: rotate(360deg);
-            }
-        }
-
-        @-webkit-keyframes n2SimpleWhite {
-            to {
-                -webkit-transform: rotate(360deg);
-            }
-        }
-    </style>
 
 <!-- <script src="https://kit.Baloo.com/feab4e393b.js"></script> -->
 
