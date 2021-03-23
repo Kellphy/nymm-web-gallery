@@ -227,15 +227,6 @@
 						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
                             <div class="item-content">
                                 <div class="image-bl">
-                                    <img src="/assets/images/showcase/23.jpg" alt="">
-                                </div>			
-                                <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/23.jpg';"></div>
-                            </div>
-                        </div>
-
-						<div class="item col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                            <div class="item-content">
-                                <div class="image-bl">
                                     <img src="/assets/images/showcase/22.jpg" alt="">
                                 </div>			
                                 <div class="item-info" style="cursor: pointer;" onclick="window.location='/assets/images/showcase/22.jpg';"></div>
